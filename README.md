@@ -8,3 +8,4 @@ I build intelligent quality systems that scale.
 - 🚀 **Core Stack:** Selenium, Playwright, AWS, Docker.
 
 👇 **Check out my Engineering Highlights below:**
+[![Engineering Highlights](https://img.shields.io/badge/Engineering%20Highlights-Visit%20Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://professionaltiger.github.io/portfolio/)
