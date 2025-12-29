@@ -1,5 +1,5 @@
 ### Hi there, I'm M. Aamir Saleem 👋
-**Principal QA Engineer & GenAI Lead**
+**Full-Stack QA Engineer | GenAI QA Lead | Agile Specialist.**
 
 I build intelligent quality systems that scale.
 
