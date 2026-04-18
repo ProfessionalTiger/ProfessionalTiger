@@ -4,7 +4,7 @@
 I build intelligent quality systems that scale.
 
 - 🔭 **Current Focus:** Self-healing test agents using LLMs.
-- 💼 **Experience:** 15+ Years (Elixir, Afiniti).
+- 💼 **Experience:** 16+ Years (Elixir, Afiniti).
 - 🚀 **Core Stack:** Selenium, Playwright, AWS, Docker.
 
 👇 **Check out my Engineering Highlights below:**
