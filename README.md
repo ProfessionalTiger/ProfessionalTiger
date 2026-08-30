@@ -1,5 +1,5 @@
 ### Hi there, I'm M. Aamir Saleem 👋
-**Principal QA Engineer | AI & Agentic Test Automation | Playwright | Performance Engineering | QA Architecture.**
+**Sr.Principal QA Engineer | AI & Agentic Test Automation | Playwright | Performance Engineering | QA Architecture.**
 
 I build intelligent quality systems that scale.
 
