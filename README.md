@@ -1,7 +1,7 @@
 ### Hi there, I'm M. Aamir Saleem 👋
 **Sr.Principal QA Engineer | AI & Agentic Test Automation | Playwright | Performance Engineering | QA Architecture.**
 
-I build intelligent quality systems that scale.
+I design scalable quality engineering systems using AI,modern automation frameworks and performance engineering.
 
 - 🔭 **Current Focus:** Self-healing test agents using LLMs.
 - 💼 **Experience:** 17+ Years (Elixir, Afiniti).
