@@ -46,4 +46,6 @@ ISTQB Advanced Test Management • ISTQB Foundation • ISTQB Testing with Gener
 
 ---
 
-**Building intelligent quality systems that scale. 🚀**
+⭐ Building intelligent quality systems that scale.
+
+If you find my projects useful, feel free to ⭐ the repositories and follow my work.
